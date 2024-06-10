@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daily_challenge.deeplinking",
+      "sha256_cert_fingerprints":
+      ["8B:DC:A1:9B:1F:8C:CE:F9:EE:04:CD:4E:E6:C6:CA:02:59:C0:5D:5B:3B:C4:BD:B6:3A:8A:01:24:9D:13:5D:56"]
+    }
+}]
